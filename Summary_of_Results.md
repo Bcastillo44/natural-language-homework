@@ -1,10 +1,10 @@
 # Performed following Natural Language Processing Tasks
 
-1. [Sentiment Analysis]
+## Sentiment Analysis
 
-   - Used NEWS API to determine sentiment analysis for Bitcoin and Ehtereum Cryptocurrency
+- Used NEWS API to determine sentiment analysis for Bitcoin and Ehtereum Cryptocurrency
 
-   ### Questions:
+### Questions:
 
 Q: Which coin had the highest mean positive score?
 
@@ -18,7 +18,7 @@ Q. Which coin had the highest positive score?
 
 A: Bitcoin Crypto
 
-2. [Natural Language Processing](#Natural-Language-Processing)
+## Natural Language Processing
 
 - Used NTLK Tokenizer to:
 
@@ -28,13 +28,17 @@ A: Bitcoin Crypto
 4. Produce the ngrams for N = 2.
 5. Generate word clouds.
 
+### Bitcoin Wordcloud
+
 ![Bitcoin Wordcloud](Images/bitcoin_wordcloud.png)
+
+### Ethereum Wordcloud
 
 ![Ethereum Wordcloud](Images/ethereum_wordcloud.png)
 
 3. [Named Entity Recognition](#Named-Entity-Recognition)
 
-#### Named Entity Recognition
+## Named Entity Recognition
 
 Built a named entity recognition model for both coins - Bitcoin and Ethereum
 
