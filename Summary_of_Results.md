@@ -36,12 +36,14 @@ A: Bitcoin Crypto
 
 ![Ethereum Wordcloud](Images/ethereum_wordcloud.png)
 
-3. [Named Entity Recognition](#Named-Entity-Recognition)
-
 ## Named Entity Recognition
 
 Built a named entity recognition model for both coins - Bitcoin and Ethereum
 
+### Bitcoin NER
+
 ![Bitcoin NER](Images/bitcoin_ner.png)
+
+### Ethereum NER
 
 ![Ethereum NER](Images/ethereum_ner.png)
