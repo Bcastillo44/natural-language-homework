@@ -1,6 +1,6 @@
-Completed the following tasks:
+# Performed following Natural Language Processing Tasks
 
-1. [Sentiment Analysis](#Sentiment-Analysis)
+1. [Sentiment Analysis]
 
    - Used NEWS API to determine sentiment analysis for Bitcoin and Ehtereum Cryptocurrency
 
